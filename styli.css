@@ -1,11 +1,16 @@
-header{
+.cabecalho{
 
-
+   
     
-    background-color: #1E90FF;
+    background-color: #1f5992;
     color: white;
 
 
 
+
+}
+.Logotipogamer{
+    background-color: rgb(116, 0, 25);
+width: 5%;
 
 }
