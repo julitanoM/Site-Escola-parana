@@ -2,7 +2,7 @@
 
    
     
-    background-color: #1f5992;
+    background-color: #393a3b;
     color: white;
 
  display: flex; 
@@ -12,11 +12,16 @@
 }
 .Logotipogamer{
 
-width: 10%;;
-
+width: 0%;;
 }
 .cabecalho-item{
 
     display: inline-block;
     margin: 0 20px;
+    font-size: 20px;
+    
+}   
+.img-body{
+ width: 20%;
+
 }
