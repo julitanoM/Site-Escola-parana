@@ -21,7 +21,29 @@ width: 0%;;
     font-size: 20px;
     
 }   
+
+
+.game-sec-1{
+    display:flex;
+}
+
+
+.game-sec-2 {
+
+}
+
 .img-body{
  width: 20%;
 
+}
+
+.thelast{
+
+    width: 25%;
+}
+
+.god4{
+
+    width: 25%;     
+    border-radius: 20%;
 }
