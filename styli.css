@@ -1,3 +1,8 @@
+.corpo{
+    text-align: center;
+
+}
+
 .cabecalho{
 
    
@@ -22,28 +27,41 @@ width: 0%;;
     
 }   
 
-
-.game-sec-1{
-    display:flex;
-}
-
-
-.game-sec-2 {
-
-}
-
-.img-body{
- width: 20%;
-
-}
-
 .thelast{
 
     width: 25%;
+    border-radius: 20%;
 }
 
 .god4{
 
+   
+   
     width: 25%;     
     border-radius: 20%;
+    
+}
+
+.R8{
+    width: 25%;
+   border-radius: 20%;
+}
+
+.red{
+
+    width: 25%;
+    border-radius: 20%;
+}
+
+.vava{
+
+    width: 25%;
+    border-radius: 20%;
+}
+
+
+
+.div-game2{
+
+     
 }
